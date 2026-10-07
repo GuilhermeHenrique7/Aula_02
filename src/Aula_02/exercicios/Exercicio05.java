@@ -1,7 +1,8 @@
 package Aula_02.exercicios;
 
 public class Exercicio05 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
+
         double nota1 = 4.67;
         double nota2 = 7;
         double nota3 = 9;

@@ -16,3 +16,4 @@ public class Exercicio06 {
         System.out.println("Valor 1 != Valor 2 "+ (valor1 != valor2));
     }
 }
+//Só pra conseguir colocar no git
