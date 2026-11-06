@@ -16,6 +16,7 @@ public class Exercicio10 {
                 matriz[i][j] = sc.nextInt();
             }
         }
+        //teste
 
         int maior = matriz[0][0];
 
